@@ -1,0 +1,20 @@
+[
+  {
+    name: 'John',
+    chemistryMarks: 80,
+    biologyMarks: 90,
+    dob: '15-05-2000'
+  },
+  {
+    name: 'Alice',
+    chemistryMarks: 75,
+    biologyMarks: 90,
+    dob: '14-03-2001'
+  },
+  {
+    name: 'Bob',
+    chemistryMarks: 85,
+    biologyMarks: 80,
+    dob: '12-07-2000'
+  }
+]
